@@ -1,2 +1,2 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+OUTPUT
+https://chandhan-j.github.io/angry-friends/
